@@ -1,6 +1,6 @@
 # Memory
 
-Notizen zum Projekt und zur Zusammenarbeit mit Claude. Diese Datei ist die Quelle der Wahrheit — bitte hier ergänzen statt im versteckten `~/.claude`-System.
+Notizen zum Projekt. Diese Datei ist die Quelle der Wahrheit.
 
 ## Projekt
 
