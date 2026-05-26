@@ -2,14 +2,14 @@ import ast
 import re
 import os
 import pandas as pd
-
+import html
 
 # --- Load journal aliases from CSV ---
 def load_journal_aliases():
     """Loads journal name aliases from data/journal_aliases.csv."""
     base_dir = os.path.dirname(os.path.abspath(__file__))
     file_path = os.path.join(base_dir, '..', 'data', 'journal_aliases.csv')
-    df = pd.read_csv(file_path)
+    df = pd.read_csv(file_path, sep=';')
     return dict(zip(df['raw'], df['clean']))
 
 
@@ -113,6 +113,13 @@ def sort_contributors(df):
     return df
 
 
+def decode_html_entities(df):
+    """Decodes HTML entities in journal titles (e.g. &amp; → &)."""
+    df['journal_title'] = df['journal_title'].apply(
+        lambda x: html.unescape(x) if isinstance(x, str) else x
+    )
+    return df
+
 def run_pipeline(df):
     """Runs all processing steps in order and saves the result."""
     df = normalize_journal_titles(df)
@@ -120,6 +127,7 @@ def run_pipeline(df):
     df = normalize_contributors(df)
     df = add_primary_author(df)
     df = sort_contributors(df)
+    df = decode_html_entities(df)
 
     df.to_csv('../data/outputs/work_processed.csv',
               index=False,
