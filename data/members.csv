@@ -1,0 +1,323 @@
+﻿first_name;last_name;last_name_first_name;no_hit;more_than_one_hit;orcid_id;orcid_record_person_identified;orcid_records_works_listed;notes;gender;level;e_name;e_type;e_city;e_region;e_country;source;date_of_input;coder
+Juliane;Achatz;Achatz, Juliane;WAHR;FALSCH;;FALSCH;FALSCH;;F;NaN;Institut für Arbeitsmarkt- und Berufsforschung (IAB);Forschungszentrum;Nürnberg;Bayern;DE;https://iab-forum.de/autor/juliane-achatz/;24.05.26;Lukas
+Silke;Aisenbrey;Aisenbrey, Silke;FALSCH;FALSCH;0000-0001-9878-0866;FALSCH;FALSCH;;F;Prof;Yeshiva University;Uni;New York;New York;US;https://yeshiva.academia.edu/SilkeAisenbrey/CurriculumVitae;24.05.26;Lukas
+Annette von;Alemann;Alemann, Annette von;FALSCH;FALSCH;0000-0001-5741-6267;WAHR;FALSCH;verstorben;F;Prof;Universität Duisburg-Essen;Uni;Duisburg;Nordrhein-Westfalen;DE;https://www.uni-due.de/2024-08-13-ude-trauert-um-annette-von-alemann;24.05.26;Lukas
+Agnieszka;Althaber;Althaber, Agnieszka;FALSCH;FALSCH;0000-0002-3707-9475;FALSCH;WAHR;;F;Postdoc;Ludwig-Maximilians-Universität München;Uni;Munich;Bayern;DE;https://www.soziologie.lmu.de/de/das-institut/personen/kontaktseite/agnieszka-althaber-6b3f7c80.html;24.05.26;Lukas
+Jens;Ambrasat;Ambrasat, Jens;FALSCH;FALSCH;0000-0002-8257-1338;WAHR;WAHR;;M;Postdoc;Humboldt-Universität zu Berlin;Uni;Berlin;Berlin;DE;https://www.rmz.hu-berlin.de/de/personen/dr-jens-ambrasat;24.05.26;Lukas
+Anna;Amelina;Amelina, Anna;FALSCH;WAHR;;FALSCH;FALSCH;;F;Prof;Technische Universität Chemnitz;Uni;Chemnitz;Sachsen;DE;https://www.tu-chemnitz.de/phil/ifgk/ikk/professur/prof.html;24.05.26;Lukas
+H. Lukas R.;Arndt;Arndt, H. Lukas R.;FALSCH;FALSCH;0009-0001-3169-6755;FALSCH;FALSCH;;M;Postdoc;NaN;NaN;NaN;NaN;NaN;https://scholar.google.com/citations?user=0i7GnxwAAAAJ&hl=de;24.05.26;Lukas
+Brigitte;Aulenbacher;Aulenbacher, Brigitte;FALSCH;FALSCH;0000-0003-2281-1237;WAHR;WAHR;ruhestand;F;Prof;Johannes Kepler Universität Linz Institut für Soziologie;Uni;Linz;Oberösterreich;AT;https://www.jku.at/institut-fuer-soziologie/abteilungen/gesellschaftstheorie-und-sozialanalysen/team/aulenbacher/;24.05.26;Lukas
+Katrin;Auspurg;Auspurg, Katrin;FALSCH;FALSCH;0000-0003-4504-0391;WAHR;WAHR;;F;Prof;Ludwig-Maximilians-Universität München;Uni;Munich;Bayern;DE;https://www.soziologie.lmu.de/de/das-institut/personen/kontaktseite/katrin-auspurg-d92c4926.html;24.05.26;Lukas
+Tina;Baier;Baier, Tina;FALSCH;FALSCH;0000-0001-8137-7800;WAHR;WAHR;;F;Postdoc;WZB;Uni;Berlin;Berlin;DE;https://www.wzb.eu/de/personen/tina-baier;24.05.26;Lukas
+Karolina;Barglowski;Barglowski, Karolina;FALSCH;FALSCH;0000-0003-0524-5595;WAHR;WAHR;;F;Prof;University of Luxembourg;Uni;Luxembourg;Luxembourg;LU;https://www.uni.lu/fhse-en/people/karolina-barglowski/;24.05.26;Lukas
+Eva;Barlösius;Barlösius, Eva;FALSCH;FALSCH;0000-0003-0254-854X;WAHR;WAHR;;F;Prof;Leibniz Universität Hannover;Uni;Hannover;Niedersachsen;DE;https://www.ish.uni-hannover.de/institut/personenverzeichnis/barloesius#c36494;24.05.26;Lukas
+Walter;Bartl;Bartl, Walter;FALSCH;FALSCH;0000-0002-1865-4980;WAHR;WAHR;;M;Postdoc;Martin Luther University Halle-Wittenberg;Uni;Halle;Sachsen-Anhalt;DE;https://soziologie.uni-halle.de/professuren/sozialstruktur/bartl/;24.05.26;Lukas
+Anne-Luise;Baumann;Baumann, Anne-Luise;FALSCH;FALSCH;0000-0002-2340-6981;FALSCH;FALSCH;;F;Postdoc;Landesministerium für Umwelt- und Klimafragen sowie Wissenschaft;Other;Bremen;Bremen;DE;https://www.linkedin.com/in/anne-luise-baumann-2a83653/;24.05.26;Lukas
+Nina;Baur;Baur, Nina;FALSCH;FALSCH;0000-0002-6626-1997;WAHR;WAHR;;F;Prof;Technische Universität Berlin;Uni;Berlin;Berlin;DE;https://www.tu.berlin/mes/nina-baur;24.05.26;Lukas
+Birgit;Becker;Becker, Birgit;FALSCH;FALSCH;0000-0001-8034-1267;WAHR;WAHR;;F;Prof;Goethe-Universität Frankfurt am Main;Uni;Frankfurt am Main;Hessen;DE;https://www.fb03.uni-frankfurt.de/45632784/Prof__Dr__Birgit_Becker___Vita;24.05.26;Lukas
+Olaf;Behrend;Behrend, Olaf;FALSCH;FALSCH;0000-0003-1606-5186;FALSCH;FALSCH;;M;Postdoc;Universität Siegen;Uni;Siegen;Nordrhein-Westfalen;DE;https://www.uni-siegen.de/person/olaf-behrend;24.05.26;Lukas
+Laura;Behrmann;Behrmann, Laura;FALSCH;FALSCH;0000-0002-2675-8122;WAHR;WAHR;;F;Postdoc;Bergische Universität Wuppertal;Uni;Wuppertal;Nordrhein-Westfalen;DE;https://polsoz.uni-wuppertal.de/de/team/ansicht/behrmann/;24.05.26;Lukas
+Susanne von;Below;Below, Susanne von;WAHR;FALSCH;;FALSCH;FALSCH;;F;Postdoc;Ministerium für Bildung, Jugend und Sport des Landes Brandenburg;Other;Potsdam;Brandenburg;DE;https://www.linkedin.com/in/susanne-von-below-b6b70651/;24.05.26;Lukas
+Henriette;Bering;Bering, Henriette;FALSCH;FALSCH;0009-0008-4649-5682;WAHR;WAHR;;F;Postdoc;University of Bremen;Uni;Bremen;Bremen;DE;https://www.socium.uni-bremen.de/ueber-das-socium/mitglieder/gesamtverzeichnis/henriette-bering/;24.05.26;Lukas
+Christiane;Bernard;Bernard, Christiane;WAHR;FALSCH;;FALSCH;FALSCH;;F;Postdoc;IG Metall;Other;Frankfurt am Main;Hessen;DE;https://www.linkedin.com/in/dr-christiane-bernard-798044271/;24.05.26;Lukas
+Janine;Bernhardt;Bernhardt, Janine;FALSCH;FALSCH;0000-0001-9993-0723;WAHR;WAHR;;F;Postdoc;Deutsches Jugendinstitut;Forschungszentrum;Munich;Bayern;DE;https://www.dji.de/ueber-uns/mitarbeitende/detailansicht/mitarbeiter/janine-bernhardt.html;24.05.26;Lukas
+Ina;Berninger;Berninger, Ina;WAHR;FALSCH;;FALSCH;FALSCH;;F;Postdoc;Universität Köln;Uni;Köln;Nordrhein-Westfalen;DE;https://www.waxmann.com/autorinnen/Ina-Berninger;24.05.26;Lukas
+Sigrid;Betzelt;Betzelt, Sigrid;FALSCH;FALSCH;0009-0008-3103-0647;FALSCH;FALSCH;;F;Prof;Berlin School of Economics and Law;Hochschule;Berlin;Berlin;DE;https://www.hwr-berlin.de/hwr-berlin/ueber-uns/person/detail/2026-sigrid-betzelt;24.05.26;Lukas
+Barbara;Binder;Binder, Barbara;FALSCH;FALSCH;0000-0001-8258-1627;WAHR;WAHR;;F;Postdoc;GESIS - Leibniz-Institute for the Social Sciences;Forschungszentrum;Mannheim;Baden-Württemberg;DE;https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/Barbara.Binder;24.05.26;Lukas
+Lara;Bister;Bister, Lara;FALSCH;FALSCH;0000-0001-5915-757X;WAHR;WAHR;;F;Postdoc;WZB Berlin Social Science Center;Forschungszentrum;Berlin;Berlin;DE;https://cms.wzb.eu/de/personen/lara-bister;24.05.26;Lukas
+Jörg;Blasius;Blasius, Jörg;WAHR;FALSCH;;FALSCH;FALSCH;;M;Prof;Universität Bonn;Uni;Bonn;Nordrhein-Westfalen;DE;https://www.uni-bonn.de/de/forschung-lehre/forschungsprofil/transdisziplinaere-forschungsbereiche/tra-4-individuals/mitgliederverzeichnis/joerg-blasius;24.05.26;Lukas
+Uwe;Blien;Blien, Uwe;FALSCH;FALSCH;0000-0003-4617-3452;FALSCH;FALSCH;;M;Prof;University of Bamberg;Uni;Bamberg;Bayern;DE;https://www.blien.de/uwe/cv.htm;24.05.26;Lukas
+Hans-Peter;Blossfeld;Blossfeld, Hans-Peter;FALSCH;FALSCH;0000-0002-9298-139X;WAHR;FALSCH;ruhestand;M;Prof;University of Bamberg;Uni;Bamberg;Bayern;DE;https://www.uni-bamberg.de/sozungleichheit/team/prof-dr-dr-hans-peter-blossfeld-emeritus-of-excellence/;24.05.26;Lukas
+Manuela;Boatca;Boatca, Manuela;FALSCH;FALSCH;0000-0003-1255-9955;WAHR;WAHR;;F;Prof;University of Freiburg;Uni;Freiburg;Baden-Württemberg;DE;https://uni-freiburg.de/soziologie/personen/manuela-boatca/;24.05.26;Lukas
+Mara;Boehle;Boehle, Mara;WAHR;FALSCH;;FALSCH;FALSCH;;F;Postdoc;Deutschen Vereinigung für Rehabilitation (DVfR);Other;Heidelberg;Baden-Württemberg;DE;https://www.dvfr.de/die-dvfr/geschaeftsstelle;24.05.26;Lukas
+Sebastian;Böhm;Böhm, Sebastian;FALSCH;WAHR;;FALSCH;FALSCH;;M;Postdoc;FernUniversität in Hagen;Uni;Hagen;Nordrhein-Westfalen;DE;https://www.fernuni-hagen.de/philosophie/lg2/team/sebastian.boehm.shtml;24.05.26;Lukas
+Petra;Böhnke;Böhnke, Petra;FALSCH;FALSCH;0000-0002-6553-1844;FALSCH;FALSCH;;F;Prof;Universität Hamburg;Uni;Hamburg;Hamburg;DE;https://www.wiso.uni-hamburg.de/fachbereich-sozoek/professuren/boehnke/team/01-boehnke-petra.html;24.05.26;Lukas
+Lisa;Bonfert;Bonfert, Lisa;FALSCH;FALSCH;0000-0001-7438-3460;WAHR;WAHR;;F;Postdoc;University of Luxembourg;Uni;Luxembourg;Luxembourg;LU;https://www.uni.lu/fhse-en/people/lisa-bonfert/;24.05.26;Lukas
+Christiane;Bozoyan;Bozoyan, Christiane;FALSCH;FALSCH;0000-0003-0205-6924;WAHR;WAHR;;F;Postdoc;Ludwig-Maximilians-Universität München;Uni;Munich;Bayern;DE;https://www.soziologie.lmu.de/de/das-institut/personen/kontaktseite/christiane-bozoyan-c8cbed3a.html;24.05.26;Lukas
+Kai;Brauer;Brauer, Kai;FALSCH;FALSCH;0000-0001-7895-243X;FALSCH;FALSCH;;M;Prof;Hochschule Neubrandenburg;Hochschule;Neubrandenburg;Mecklenburg-Vorpommern;DE;https://www.hs-nb.de/fachbereich-soziale-arbeit-bildung-und-erziehung/ppages/vita/;24.05.26;Lukas
+Helmut;Bremer;Bremer, Helmut;FALSCH;FALSCH;0009-0006-0004-4005;FALSCH;FALSCH;;M;Prof;Universität Duisburg-Essen;Uni;Essen;Nordrhein-Westfalen;DE;https://www.uni-due.de/biwi/politische-bildung/leitung;24.05.26;Lukas
+Hilke;Brockmann;Brockmann, Hilke;FALSCH;FALSCH;0000-0002-9551-8333;FALSCH;WAHR;;F;Prof;Constructor University;Hochschule;Bremen;Bremen;DE;https://constructor.university/faculty-member/hilke-brockmann;24.05.26;Lukas
+Hanns-Georg;Brose;Brose, Hanns-Georg;WAHR;FALSCH;;FALSCH;FALSCH;verstorben;M;Prof;Universität Duisburg-Essen;Uni;Duisburg;Nordrhein-Westfalen;DE;https://www.uni-due.de/2018-08-27-hanns-georg-brose-verstorben;24.05.26;Lukas
+Jan;Brülle;Brülle, Jan;FALSCH;FALSCH;0000-0002-7102-5649;WAHR;WAHR;;M;Postdoc;Bundesinstitut für Bevölkerungsforschung;Forschungszentrum;Wiesbaden;Hessen;DE;https://www.bib.bund.de/DE/Institut/Mitarbeiter/Bruelle/Bruelle.html;24.05.26;Lukas
+Martin;Brussig;Brussig, Martin;FALSCH;FALSCH;0000-0003-2608-6853;FALSCH;FALSCH;;M;Prof;Universität Duisburg-Essen;Uni;Duisburg;Nordrhein-Westfalen;DE;https://www.uni-due.de/iaq/personalseite.php?name=brussig&show=info;24.05.26;Lukas
+Christian;Brzinsky-Fay;Brzinsky-Fay, Christian;FALSCH;FALSCH;0000-0003-2383-7586;WAHR;WAHR;;M;Postdoc;Universität Hamburg;Uni;Hamburg;Hamburg;DE;https://www.wiso.uni-hamburg.de/fachbereich-sowi/professuren/schnapp/team/brzinsky-christian.html;24.05.26;Lukas
+Heinz;Bude;Bude, Heinz;FALSCH;FALSCH;0009-0001-0058-4216;FALSCH;FALSCH;ruhestand;M;Prof;Universität Kassel;Uni;Kassel;Hessen;DE;https://www.uni-kassel.de/fb05/fachgruppen-und-institute/soziologie/fachgebiete/makrosoziologie-1/team?tx_ukpersons_alphabetandteamlist%5Bcid%5D=1023677&tx_ukpersons_alphabetandteamlist%5BpersonFunction%5D=447&cHash=140f4c18c9672895db5e58c363cfa84e;24.05.26;Lukas
+Doris;Bühler-Niederberger;Bühler-Niederberger, Doris;FALSCH;FALSCH;0000-0001-6944-947X;WAHR;WAHR;;F;Prof;Bergische Universität Wuppertal;Uni;Wuppertal;Nordrhein-Westfalen;DE;https://embi.uni-wuppertal.de/de/mitarbeiter/zur-person-1/;24.05.26;Lukas
+Mareike;Bünning;Bünning, Mareike;FALSCH;FALSCH;0000-0001-9419-5723;WAHR;WAHR;;F;Postdoc;German Centre of Gerontology;Other;Berlin;Berlin;DE;https://www.dza.de/en/about-us/staff/profilpage/buenning-mareike;24.05.26;Lukas
+Christoph;Burkhardt;Burkhardt, Christoph;FALSCH;FALSCH;0000-0002-6952-5783;FALSCH;FALSCH;falsche Person!;M;Postdoc;Max Planck Institute for Solar System Research;.;Göttingen;.;DE;https://journals.sagepub.com/doi/10.1177/0958928709104737#tab-contributors;.;Lukas
+Nicole;Burzan;Burzan, Nicole;FALSCH;FALSCH;0000-0001-9512-5225;WAHR;WAHR;;F;Prof;TU Dortmund University;Uni;Dortmund;Nordrhein-Westfalen;DE;https://su.sowi.tu-dortmund.de/professur/team/prof-dr-nicole-burzan/;24.05.26;Lukas
+Ann-Christin;Bächmann;Bächmann, Ann-Christin;FALSCH;FALSCH;0000-0001-9453-5951 ;WAHR;WAHR;;F;Postdoc;Institut für Arbeitsmarkt- und Berufsforschung (IAB);Forschungszentrum;Nürnberg;Bayern;DE;https://iab.de/mitarbeiter/bächmann-ann-christin/;24.05.26;Lukas
+Tanja;Carstensen;Carstensen, Tanja;FALSCH;FALSCH;0000-0003-0088-0856;WAHR;WAHR;;F;Prof;Technischen Universität Chemnitz;Uni;Chemnitz;Sachsen;DE;https://www.tu-chemnitz.de/hsw/soziologie/Professuren/Arbeit_und_Organisation/Team/leitung.php;24.05.26;Lukas
+Ursula;Dallinger;Dallinger, Ursula;WAHR;FALSCH;;FALSCH;FALSCH;ruhestand;F;Prof;Universität Trier;Uni;Trier;Rheinland-Pfalz;DE;https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-iv/faecher/soziologie/professuren/sozialpolitik/lehrstuhl/prof-dr-ursula-dallinger;24.05.26;Lukas
+Jens S.;Dangschat;Dangschat, Jens S.;FALSCH;FALSCH;0000-0001-5206-0337;WAHR;WAHR;ruhestand;M;Prof;Vienna University of Technology;Uni;Wien;Wien;AT;https://www.tuwien.at/ar/soziologie/ueber-uns/team/emounivprof-mag-rersocoec-drphil-je;24.05.26;Lukas
+Christian;Deindl;Deindl, Christian;FALSCH;FALSCH;0000-0002-4935-0381;FALSCH;WAHR;;M;Prof;TU Dortmund University;Uni;Dortmund;Nordrhein-Westfalen;DE;https://fb-deindl.sowi.tu-dortmund.de/forschungsbereich/forschungsbereich/apl-prof-dr-habil-christian-deindl/;24.05.26;Lukas
+Hans;Dietrich;Dietrich, Hans;FALSCH;FALSCH;0000-0002-7427-4712;FALSCH;WAHR;;M;Postdoc;Institut für Arbeitsmarkt- und Berufsforschung (IAB);Forschungszentrum;Nürnberg;Bayern;DE;https://doku.iab.de/mitarbeiter/vita_dietrich_engl.pdf;24.05.26;Lukas
+Martin;Diewald;Diewald, Martin;FALSCH;FALSCH;0000-0002-9101-1586;FALSCH;WAHR;;M;Prof;University of Bielefeld;Uni;Bielefeld;Nordrhein-Westfalen;DE;https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=124110#curriculum_vitae;24.05.26;Lukas
+Katrin;Drasch;Drasch, Katrin;FALSCH;FALSCH;0000-0002-0332-3839;WAHR;WAHR;There are non-sociological works (e.g. about canaries) but her main field is sociology;F;Postdoc;FAU Erlangen-Nürnberg;Uni;Erlangen;Bayern;DE;https://www.soziologie.phil.fau.de/drasch/;24.05.26;Lukas
+Jascha;Dräger;Dräger, Jascha;FALSCH;FALSCH;0000-0002-3584-1139;WAHR;WAHR;;M;Postdoc;German Institute for Economic Research (DIW);Forschungszentrum;Berlin;Berlin;DE;https://www.diw.de/de/diw_01.c.881111.de/personen/draeger__jascha.html;24.05.26;Lukas
+Kai;Dröge;Dröge, Kai;FALSCH;FALSCH;0009-0004-1077-4349;WAHR;WAHR;;M;Postdoc;Lucerne University of Applied Sciences and Arts;Hochschule;Luzern;Luzern;CH;https://www.hslu.ch/de-ch/hochschule-luzern/ueber-uns/personensuche/profile/?pid=823;24.05.26;Lukas
+Halil;Duran;Duran, Halil;FALSCH;FALSCH;0009-0001-6639-4079;FALSCH;FALSCH;;M;PhD;GESIS - Leibniz-Institute for the Social Sciences;Forschungszentrum;Mannheim;Baden-Württemberg;DE;https://www.gesis.org/gml/about-gml/forschung/methodische-herausforderungen-bei-der-erfassung-von-armut;24.05.26;Lukas
+Falk;Eckert;Eckert, Falk;WAHR;FALSCH;;FALSCH;FALSCH;;M;Postdoc;Forschungsvereinigung Elektrotechnik beim ZVEI;Other;Berlin;Berlin;DE;https://www.linkedin.com/in/dr-falk-eckert-1728bb1b/;24.05.26;Lukas
+Martin;Ehlert;Ehlert, Martin;FALSCH;FALSCH;0000-0002-5213-3513;WAHR;WAHR;;M;Prof;Social Science Research Center Berlin (WZB);Forschungszentrum;Berlin;Berlin;DE;https://www.wzb.eu/de/personen/martin-ehlert;24.05.26;Lukas
+Jan;Einhoff;Einhoff, Jan;FALSCH;FALSCH;0009-0000-2581-5861;FALSCH;FALSCH;;M;Postdoc;Max Planck Institute for Demographic Research;Forschungszentrum;Rostock;Mecklenburg-Vorpommern;DE;https://www.demogr.mpg.de/de/ueber_uns_6113/mitarbeiter_innen_1899/jan_einhoff_4556/;24.05.26;Lukas
+Aladin;El-Mafaalani;El-Mafaalani, Aladin;WAHR;FALSCH;;FALSCH;FALSCH;;M;Prof;TU Dortmund University;Uni;Dortmund;Nordrhein-Westfalen;DE;https://www.tu-dortmund.de/universitaet/neuberufene-professorinnen/prof-aladin-el-mafaalani/;24.05.26;Lukas
+Frederike;Esche;Esche, Frederike;FALSCH;FALSCH;0000-0003-1041-5405;WAHR;WAHR;;F;Postdoc;Universität Hamburg;Uni;Hamburg;Hamburg;DE;https://www.linkedin.com/in/frederike-esche-b545758b/;24.05.26;Lukas
+Thomas;Faist;Faist, Thomas;FALSCH;FALSCH;0000-0003-3887-0135;WAHR;WAHR;;M;Prof;University of Bielefeld;Uni;Bielefeld;Nordrhein-Westfalen;DE;https://www.uni-bielefeld.de/fakultaeten/soziologie/fakultaet/personen/faist/;24.05.26;Lukas
+Sonja;Fehr;Fehr, Sonja;FALSCH;FALSCH;0000-0001-9112-0080;FALSCH;FALSCH;;F;Postdoc;University of Kassel;Uni;Kassel;Hessen;DE;https://www.uni-kassel.de/fb05/fachgruppen-und-institute/soziologie/lehrkraefte-fuer-besondere-aufgaben/dr-sonja-fehr.html;24.05.26;Lukas
+Magdalena;Fellner;Fellner, Magdalena;FALSCH;FALSCH;0000-0003-3724-7579;FALSCH;WAHR;;F;Postdoc;University of Kassel;Uni;Kassel;Hessen;DE;https://www.uni-kassel.de/forschung/en/incher/people/team/personensteckbrief.html?tx_ukpersons_personfunctiondetail%5BpersonFunction%5D=1141&cHash=54ea84bef908c459a24986b3e3553532;24.05.26;Lukas
+Stefan;Fuchs;Fuchs, Stefan;FALSCH;FALSCH;0009-0003-3872-8996;FALSCH;WAHR;One of them works at the IAB. I am not sure if he is a sociologist or an economist tho.;M;Postdoc;Institute for Employment Research (IAB);Forschungszentrum;Nürnberg;Bayern;DE;https://iab-forum.de/autor/stefan-fuchs/;24.05.26;Lukas
+Beat;Fux;Fux, Beat;WAHR;FALSCH;;FALSCH;FALSCH;;M;Prof;Universität Salzburg;Uni;Salzburg;Salzburg;DE;https://www.plus.ac.at/soziologie-und-sozialwissenschaftliche-geographie/soziologie/team/fux-beat/;24.05.26;Lukas
+Markus;Gangl;Gangl, Markus;FALSCH;FALSCH;0000-0001-5392-0079;WAHR;WAHR;;M;Prof;Goethe University Frankfurt;Uni;Frankfurt am Main;Hessen;DE;https://www.fb03.uni-frankfurt.de/44509740/Prof__Dr__Markus_Gangl;24.05.26;Lukas
+Michael;Gebel;Gebel, Michael;FALSCH;FALSCH;0000-0002-8557-7508;WAHR;WAHR;;M;Prof;Otto-Friedrich-Universität Bamberg;Uni;Bamberg;Bayern;DE;https://www.uni-bamberg.de/empsoz/lehrstuhlteam/prof-dr-michael-gebel/;24.05.26;Lukas
+Andreas;Gefken;Gefken, Andreas;WAHR;FALSCH;;FALSCH;FALSCH;;M;NaN;NaN;NaN;NaN;NaN;NaN;https://www.wiso.uni-hamburg.de/en/fachbereich-sozoek/professuren/boehnke/team/former-staff-members.html;24.05.26;Lukas
+Rainer;Geißler;Geißler, Rainer;FALSCH;FALSCH;0000-0003-3346-9174;FALSCH;WAHR;ORCID ID is wrong, person now im ruhestand;M;Prof;University of Siegen;Uni;Siegen;Nordrhein-Westfalen;DE;https://www.uni-siegen.de/phil/sozialwissenschaften/personen;24.05.26;Lukas
+Jürgen;Gerhards;Gerhards, Jürgen;FALSCH;FALSCH;0000-0001-6078-0879;WAHR;WAHR;;M;Prof;Freie Universität Berlin;Uni;Berlin;Berlin;DE;https://www.polsoz.fu-berlin.de/soziologie/arbeitsbereiche/seniorprofessur/mitarbeiter/lehrstuhlinhaber/juergen_gerhards.html;24.05.26;Lukas
+Jean-Yves;Gerlitz;Gerlitz, Jean-Yves;FALSCH;FALSCH;0000-0002-1397-0474;WAHR;WAHR;;M;Postdoc;University of Bremen;Uni;Bremen;Bremen;DE;https://fgz-risc.de/das-forschungsinstitut/personen/details/jean-yves-gerlitz/;24.05.26;Lukas
+Johannes;Giesecke;Giesecke, Johannes;FALSCH;FALSCH;0000-0002-6678-5811;WAHR;WAHR;;M;Prof;Humboldt-Universität zu Berlin;Uni;Berlin;Berlin;DE;https://www.sowi.hu-berlin.de/de/lehrbereiche/empisoz/a-z/giesecke;24.05.26;Lukas
+Marco;Giesselmann;Giesselmann, Marco;FALSCH;FALSCH;0000-0001-6769-3612;WAHR;WAHR;;M;Prof;Universität Zürich;Uni;Zürich;Zürich;CH;https://www.suz.uzh.ch/de/institut/mitarbeitende/giesselmann.html;24.05.26;Lukas
+David;Glauser;Glauser, David;FALSCH;FALSCH;0000-0002-8903-4973;WAHR;WAHR;;M;Prof;FHNW Fachhochschule Nordwestschweiz;Hochschule;Brugg;Aargau;CH;https://www.fhnw.ch/de/ph/ueber-uns/portrait-organisation/personen/david-glauser;24.05.26;Lukas
+Jan;Goebel;Goebel, Jan;FALSCH;FALSCH;0000-0002-3243-1935;WAHR;WAHR;;M;Postdoc;Deutsches Institut für Wirtschaftsforschung eV;Forschungszentrum;Berlin;Berlin;DE;https://www.diw.de/de/diw_01.c.10771.de/personen/goebel__jan.html;24.05.26;Lukas
+Anna;Goedicke;Goedicke, Anna;WAHR;FALSCH;;FALSCH;FALSCH;;F;NaN;NaN;NaN;NaN;NaN;NaN;https://gepris.dfg.de/gepris/person/1770801;24.05.26;Lukas
+Markus;Gottwald;Gottwald, Markus;WAHR;FALSCH;;FALSCH;FALSCH;;M;Prof;Kath. Hochschule NRW;Hochschule;Köln;Nordrhein-Westfalen;DE;https://katho-nrw.de/gottwald-markus-prof-dr;24.05.26;Lukas
+Susanne;Götz;Götz, Susanne;FALSCH;FALSCH;0009-0006-0538-2476;WAHR;FALSCH;;F;PhD;PB Consult GmbH;Other;Nürnberg;Bayern;DE;https://www.linkedin.com/in/susanne-götz-676861202/;24.05.26;Lukas
+Cornelia;Gresch;Gresch, Cornelia;FALSCH;FALSCH;0000-0001-6665-8313;WAHR;WAHR;;F;Postdoc;Institut zur Qualitätsentwicklung im Bildungswesen an der HU Berlin;Uni;Berlin;Berlin;DE;https://www.lifbi.de/Portals/2/Images/INSIDE/INSIDE_Kurzportraet_02-2022.pdf?ver=MaSRpopv6RNfVme6jfQ6DA%3D%3D;25.05.26;Lukas
+Angela;Graf;Graf, Angela;FALSCH;FALSCH;0000-0003-2241-2439;WAHR;WAHR;;F;Postdoc;TUM;Uni;Munich;Bayern;DE;https://www.sts.sot.tum.de/sts/personen/forschende/angela-graf/;25.05.26;Lukas
+Natalie;Grimm;Grimm, Natalie;FALSCH;FALSCH;0000-0002-4339-8448;WAHR;FALSCH;Undisplayable ORCID but likely this research assitant;F;Postdoc;Forschungsinstitut Gesellschaftlicher Zusammenhalt (FGZ);Forschungszentrum;Göttingen;Niedersachsen;DE;https://fgz-risc.de/das-forschungsinstitut/personen/details/natalie-grimm/;25.05.26;Lukas
+Olaf;Groh-Samberg;Groh-Samberg, Olaf;FALSCH;FALSCH;0000-0001-5745-4466;WAHR;WAHR;;M;Prof;Universität Bremen;Uni;Bremen;Bremen;DE;https://www.socium.uni-bremen.de/ueber-das-socium/mitglieder/gesamtverzeichnis/olaf-groh-samberg/de/;25.05.26;Lukas
+Christiane;Gross;Gross, Christiane;FALSCH;FALSCH;0000-0001-7878-4464;WAHR;WAHR;;F;Prof;Julius-Maximilians-Universität Würzburg;Uni;Wurzburg;Bayern;DE;https://www.politikwissenschaft.uni-wuerzburg.de/lehrbereiche/empirische/prof-dr-christiane-gross/;25.05.26;Lukas
+Martin;Groß;Groß, Martin;FALSCH;WAHR;;FALSCH;FALSCH;Unclear who? Could also be? https://www.gsi.uni-muenchen.de/personen/wiss_mitarbeiter/gross_martin/index.html;M;Prof;Universität Tübingen;Uni;Tübingen;Baden-Württemberg;DE;https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/soziologie/institut/personen/prof-dr-martin-gross/;25.05.26;Lukas
+Daniela;Grunow;Grunow, Daniela;FALSCH;FALSCH;0000-0003-2427-2919;WAHR;FALSCH;;F;Prof;Goethe University Frankfurt;Uni;Frankfurt am Main;Hessen;DE;https://www.fb03.uni-frankfurt.de/44692678/Prof__Dr__Daniela_Grunow;25.05.26;Lukas
+Michael;Grätz;Grätz, Michael;FALSCH;FALSCH;0000-0001-7920-1021;WAHR;WAHR;;M;Prof;University of Lausanne;Uni;Lausanne;Vaud;CH;https://people.unil.ch/michaelgratz/;25.05.26;Lukas
+Stefanie;Gundert;Gundert, Stefanie;FALSCH;FALSCH;0000-0001-6815-1815;WAHR;FALSCH;;F;Postdoc;Institut für Arbeitsmarkt- und Berufsforschung (IAB);Forschungszentrum;Nürnberg;Bayern;DE;https://iab.de/mitarbeiter/gundert-stefanie/;25.05.26;Lukas
+Tamara;Gutfleisch;Gutfleisch, Tamara;FALSCH;FALSCH;0000-0002-8648-2105;WAHR;WAHR;;F;Postdoc;MZES, Universität Mannheim;Uni;Mannheim;Baden-Württemberg;DE;https://www.sowi.uni-mannheim.de/en/kogan/team/postdocs/gutfleisch-tamara/;25.05.26;Lukas
+Isabel;Habicht;Habicht, Isabel;FALSCH;FALSCH;0000-0001-5346-6662;WAHR;WAHR;;F;Postdoc;Bergische Universität Wuppertal;Uni;Wuppertal;Nordrhein-Westfalen;DE;https://isabelhabicht.github.io/cv/;25.05.26;Lukas
+Andreas;Hadjar;Hadjar, Andreas;FALSCH;FALSCH;0000-0002-2641-010X;WAHR;WAHR;;M;Prof;Universität Freiburg;Uni;Freiburg;Freiburg;CH;https://www.unifr.ch/directory/de/people/18019/4f0f7;25.05.26;Lukas
+Denis;Hänzi;Hänzi, Denis;FALSCH;FALSCH;0009-0005-0120-6734;FALSCH;FALSCH;;M;Postdoc;PH Luzern;Hochschule;Luzern;Luzern;CH;https://www.phlu.ch/denis-haenzi.html;25.05.26;Lukas
+Lisa Yashodhara;Haller;Haller, Lisa Yashodhara;FALSCH;FALSCH;0000-0001-5094-207X;FALSCH;WAHR;;F;Prof;Hochschule Neubrandenburg;Hochschule;Neubrandenburg;Mecklenburg-Vorpommern;DE;https://www.hs-nb.de/fachbereich-soziale-arbeit-bildung-und-erziehung/ppages/lisa-yashodhara-haller/;25.05.26;Lukas
+Jakob;Hartl;Hartl, Jakob;FALSCH;FALSCH;0000-0001-8888-2703;WAHR;WAHR;;M;Postdoc;Uni Halle;Uni;Halle;Sachsen-Anhalt;DE;https://soziologie.uni-halle.de/professuren/sozialstruktur/hartl/;25.05.26;Lukas
+Andreas;Haupt;Haupt, Andreas;FALSCH;FALSCH;0000-0002-6519-362X;WAHR;WAHR;;M;Postdoc;Karlsruhe Institute of Technology;Uni;Karlsruhe;Baden-Württemberg;DE;https://www.soziologie.kit.edu/MitarbeiterInnen_Haupt.php;25.05.26;Lukas
+Martin;Heidenreich;Heidenreich, Martin;FALSCH;FALSCH;0000-0002-9509-1667;WAHR;WAHR;;M;Prof;Carl von Ossietzky Universitat Oldenburg Institut für Sozialwissenschaften;Uni;Oldenburg;Niedersachsen;DE;https://uol.de/sozialwissenschaften/emeritipensionaere/prof-dr-martin-heidenreich;25.05.26;Lukas
+Isolde;Heintze;Heintze, Isolde;WAHR;FALSCH;;FALSCH;FALSCH;;F;Prof;Hochschule Mittweida;Hochschule;Mittweida;Sachsen;DE;https://www.sw.hs-mittweida.de/professuren/prof-dr-phil-isolde-heintze/;25.05.26;Lukas
+Jan Paul;Heisig;Heisig, Jan Paul;FALSCH;FALSCH;0000-0001-8228-1907;WAHR;WAHR;;M;Prof;WZB Berlin Social Science Center;Forschungszentrum;Berlin;Berlin;DE;https://www.wzb.eu/system/files/docs/dsi/hsi/heisig_cv_deu_0.pdf;25.05.26;Lukas
+Boris;Heizmann;Heizmann, Boris;FALSCH;FALSCH;0000-0001-5853-9613;FALSCH;FALSCH;;M;Postdoc;GESIS - Leibniz-Institute for the Social Sciences;Forschungszentrum;Mannheim;Baden-Württemberg;DE;https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/Boris.Heizmann;25.05.26;Lukas
+Andrea;Hense;Hense, Andrea;FALSCH;FALSCH;0009-0002-5138-1766;FALSCH;FALSCH;;F;Postdoc;Forschungsinstitut Gesellschaftlicher Zusammenhalt (FGZ);Forschungszentrum;Göttingen;Niedersachsen;DE;https://fgz-risc.de/das-forschungsinstitut/personen/details/andrea-hense;25.05.26;Lukas
+Tom;Hensel;Hensel, Tom;FALSCH;FALSCH;0000-0002-0237-1652;FALSCH;WAHR;;M;Postdoc;Technische Universität Braunschweig;Uni;Braunschweig;Niedersachsen;DE;https://www.tu-braunschweig.de/ses/team/hensel;25.05.26;Lukas
+Florian R.;Hertel;Hertel, Florian R.;FALSCH;FALSCH;0000-0002-9557-9283;WAHR;WAHR;;M;Prof;Europa-Universität Flensburg;Uni;Flensburg;Schleswig-Holstein;DE;https://www.uni-flensburg.de/sams/wer-wir-sind/sams/florian-hertel;25.05.26;Lukas
+Steffen;Hillmert;Hillmert, Steffen;FALSCH;FALSCH;0000-0002-4423-8315;FALSCH;FALSCH;;M;Prof;Universität Tübingen;Uni;Tübingen;Baden-Württemberg;DE;https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/soziologie/institut/personen/prof-dr-steffen-hillmert/;25.05.26;Lukas
+Thomas;Hinz;Hinz, Thomas;FALSCH;WAHR;;FALSCH;FALSCH;;M;Prof;Universität Konstanz;Uni;Konstanz;Baden-Württemberg;DE;https://www.soziologie.uni-konstanz.de/hinz/team/prof-dr-thomas-hinz/;25.05.26;Lukas
+Andreas;Hirseland;Hirseland, Andreas;WAHR;FALSCH;;FALSCH;FALSCH;unclear what since 2024;M;NaN;NaN;NaN;NaN;NaN;NaN;https://iab-forum.de/autor/dr-andreas-hirseland/;25.05.26;Lukas
+Ronald;Hitzler;Hitzler, Ronald;WAHR;FALSCH;;FALSCH;FALSCH;ruhestand;M;Prof;Technische Universität Dortmund;Uni;Dortmund;Nordrhein-Westfalen;DE;https://sowi.tu-dortmund.de/fakultaet/die-institute-der-fakultaet-sozialwissenschaften/;25.05.26;Lukas
+Dirk;Hofäcker;Hofäcker, Dirk;FALSCH;FALSCH;0000-0002-2747-5765;WAHR;WAHR;;M;Prof;Universität Duisburg-Essen;Uni;Essen ;Nordrhein-Westfalen;DE;https://www.uni-due.de/biwi/hofaecker/zurperson.php;25.05.26;Lukas
+Rasmus;Hoffmann;Hoffmann, Rasmus;FALSCH;FALSCH;0000-0002-9007-3144;WAHR;WAHR;;M;Prof;Universität Bamberg;Uni;Bamberg;Bayern;DE;https://www.uni-bamberg.de/sozungleichheit/prof-dr-rasmus-hoffmann/;25.05.26;Lukas
+Christian;Hohendanner;Hohendanner, Christian;FALSCH;FALSCH;0000-0003-0717-2000;WAHR;WAHR;;M;Postdoc;Institute for Employment Research;Forschungszentrum;Nürnberg;Bayern;DE;https://iab.de/mitarbeiter/hohendanner-christian/;25.05.26;Lukas
+Stefanie;Hoherz;Hoherz, Stefanie;FALSCH;FALSCH;0000-0003-4790-4771;WAHR;WAHR;;F;Postdoc;Federal Institute for Population Research;Forschungszentrum;Wiesbaden;Hessen;DE;https://www.bib.bund.de/DE/Institut/Mitarbeiter/Hoherz/Hoherz.html;25.05.26;Lukas
+Anke;Höhne;Höhne, Anke;WAHR;FALSCH;;FALSCH;FALSCH;;F;Postdoc;Deutsche Gesellschaft für Systemische Therapie, Beratung und Familientherapie e. V.;Other;Köln;Nordrhein-Westfalen;DE;https://dgsf.org/Members/DGSF--08211/dr-anke-hoehne;25.05.26;Lukas
+Betina;Hollstein;Hollstein, Betina;FALSCH;FALSCH;0000-0003-0219-6265;WAHR;WAHR;;F;Prof;University of Bremen;Uni;Bremen;Bremen;DE;https://www.socium.uni-bremen.de/ueber-das-socium/mitglieder/betina-hollstein/lebenslauf/;25.05.26;Lukas
+Dieter;Holtmann;Holtmann, Dieter;WAHR;FALSCH;;FALSCH;FALSCH;ruhestand;M;Prof;University of Potsdam;Uni;Potsdam;Brandenburg;DE;https://www.uni-potsdam.de/de/wiso/fakultaet/professuren/ehemalige-hochschullehrerinnen;25.05.26;Lukas
+Carola;Hommerich-Horiko;Hommerich-Horiko, Carola;FALSCH;FALSCH;0000-0002-1724-877X;WAHR;WAHR;;F;Prof;Sophia University;Uni;Tokyo;Tokyo;JP;https://spsf.sophia.ac.jp/faculty/hommerich-carola;25.05.26;Lukas
+Christoph;Homuth;Homuth, Christoph;FALSCH;FALSCH;0000-0003-3826-6886;WAHR;WAHR;;M;Postdoc;Leibniz Institute for Educational Trajectories;Forschungszentrum;Bamberg;Bayern;DE;https://www.lifbi.de/de-de/Start/Institut/Personen/Person/account/2323;25.05.26;Lukas
+Inga;Hornei;Hornei, Inga;FALSCH;WAHR;;FALSCH;FALSCH;There are several Inga but none has a last name;F;Postdoc;Universität Duisburg-Essen;Uni;Essen ;Nordrhein-Westfalen;DE;https://www.uni-due.de/person/H?id=55741;25.05.26;Lukas
+Katharina;Hörstermann;Hörstermann, Katharina;FALSCH;WAHR;;FALSCH;FALSCH;There are several Katharina but none has a last name;F;Postdoc;Rheinisch-Bergischer Kreis;Other;Lindlar;Nordrhein-Westfalen;DE;https://www.linkedin.com/in/katharina-h%C3%B6rstermann-a98637144/?skipRedirect=true;25.05.26;Lukas
+Stefan;Hradil;Hradil, Stefan;WAHR;FALSCH;;FALSCH;FALSCH;ruhestand;M;Prof;Universität Mainz;Uni;Mainz;Rheinland-Pfalz;DE;https://sozialstruktur.soziologie.uni-mainz.de/hradil/;25.05.26;Lukas
+Sandra;Hubert;Hubert, Sandra;FALSCH;FALSCH;0000-0002-1288-0725;FALSCH;FALSCH;;F;Postdoc;Leibniz-Institut für Bildungsverläufe;Forschungszentrum;Bamberg;Bayern;DE;https://www.lifbi.de/de-de/Start/Institut/Personen/Person/account/1645;25.05.26;Lukas
+Johannes;Huinink;Huinink, Johannes;FALSCH;FALSCH;0000-0003-2527-1395;WAHR;WAHR;;M;Prof;Universität Bremen;Uni;Bremen;Bremen;DE;https://www.socium.uni-bremen.de/ueber-das-socium/mitglieder/johannes-huinink/lebenslauf/;25.05.26;Lukas
+Bettina;Isengard;Isengard, Bettina;FALSCH;FALSCH;0000-0002-9474-0178;WAHR;WAHR;;F;Postdoc;University of Zurich;Uni;Zürich;Zürich;CH;https://www.suz.uzh.ch/de/institut/mitarbeitende/isengard.html;25.05.26;Lukas
+Marita;Jacob;Jacob, Marita;FALSCH;FALSCH;0000-0002-2674-568X;WAHR;WAHR;;F;Prof;University of Cologne;Uni;Köln;Nordrhein-Westfalen;DE;https://dss.uni-koeln.de/de/department/lehrstuehle-und-professuren/soziologie-ii-prof-dr-marita-jacob;25.05.26;Lukas
+Nora;Jehles;Jehles, Nora;FALSCH;WAHR;;FALSCH;FALSCH;Last name missing;F;Postdoc;Technische Universität Dortmund;Uni;Dortmund;Nordrhein-Westfalen;DE;https://isep.ep.tu-dortmund.de/institut/personen/nora-jehles/;25.05.26;Lukas
+Jean-Marie;Jungblut;Jungblut, Jean-Marie;WAHR;FALSCH;;FALSCH;FALSCH;;M;Postdoc;Eurofound;Other;Loughlinstown;Dún Laoghaire–Rathdown;IE;https://www.linkedin.com/in/jean-marie-jungblut-81173788/;25.05.26;Lukas
+Philipp;Kadelke;Kadelke, Philipp;FALSCH;FALSCH;0000-0001-8015-2140;WAHR;WAHR;;M;Postdoc;TU Dortmund University;Uni;Dortmund;Nordrhein-Westfalen;DE;https://su.sowi.tu-dortmund.de/professur/team/philipp-kadelke-ma/;25.05.26;Lukas
+Heike;Kahlert;Kahlert, Heike;FALSCH;FALSCH;0000-0002-8435-0029;WAHR;WAHR;;F;Prof;Ruhr-Universität Bochum;Uni;Bochum;Nordrhein-Westfalen;DE;https://www.sowi.ruhr-uni-bochum.de/sozsug/lehrstuhl/team/inhaberin.html.de;25.05.26;Lukas
+Till;Kaiser;Kaiser, Till;FALSCH;FALSCH;0000-0003-4984-1874;WAHR;WAHR;;M;Postdoc;Osnabrück University;Uni;Osnabrück;Niedersachsen;DE;https://www.uni-osnabrueck.de/fb3/ife/schulpaedagogik/arbeitsbereiche/empirische-schul-und-unterrichtsforschung/dr-till-kaiser;25.05.26;Lukas
+Nicole;Kapelle;Kapelle, Nicole;FALSCH;FALSCH;0000-0001-5855-1153;WAHR;WAHR;;F;Prof;Trinity College Dublin;Uni;Dublin;Dublin;IE;https://nkapelle.github.io;25.05.26;Lukas
+Max;Keck;Keck, Max;FALSCH;FALSCH;0000-0002-7542-1665;FALSCH;FALSCH;;M;Postdoc;Hans-Böckler-Stiftung;Other;Düsseldorf;Nordrhein-Westfalen;DE;https://www.imu-boeckler.de/de/personensuche-42919-dr-max-keck-68593.htm;25.05.26;Lukas
+Maria;Keil;Keil, Maria;FALSCH;FALSCH;0000-0001-9763-9473;WAHR;WAHR;;F;Postdoc;Universität Tübingen;Uni;Tübingen;Baden-Württemberg;DE;https://doingtransitions.org/dr-in-maria-keil;25.05.26;Lukas
+Sylvia;Keim-Klärner;Keim-Klärner, Sylvia;FALSCH;FALSCH;0000-0002-5221-5535;WAHR;WAHR;;F;Postdoc;Johann Heinrich von Thünen-Institut Bundesforschungsinstitut für Ländliche Räume Wald und Fischerei;Forschungszentrum;Braunschweig;Niedersachsen;DE;https://www.thuenen.de/de/fachinstitute/laendliche-raeume/lebensverhaeltnisse-in-laendlichen-raeumen/personal/wissenschaftliches-personal/keim-klaerner-sylvia-dr;25.05.26;Lukas
+Carsten;Keller;Keller, Carsten;FALSCH;WAHR;;FALSCH;FALSCH;;M;Prof;University of Kassel;Uni;Kassel;Hessen;DE;https://www.uni-kassel.de/fb06/institute/urbane-entwicklungen/fachgebiete/stadt-und-regionalsoziologie/team/carsten-keller.html;25.05.26;Lukas
+Andreas;Klärner;Klärner, Andreas;FALSCH;FALSCH;0000-0003-0314-1215;WAHR;WAHR;;M;Prof;Johann Heinrich von Thünen-Institut;Forschungszentrum;Braunschweig;Niedersachsen;DE;Knabe, Andre H.;25.05.26;Lukas
+Corinna;Kleinert;Kleinert, Corinna;FALSCH;FALSCH;0000-0002-9285-6070;WAHR;WAHR;;F;Prof;Otto-Friedrich-Universität Bamberg;Uni;Bamberg;Bayern;DE;https://www.uni-bamberg.de/sozlangbifo/team/prof-dr-corinna-kleinert/;25.05.26;Lukas
+Matthias;Klemm;Klemm, Matthias;FALSCH;FALSCH;0000-0002-2418-0259;FALSCH;WAHR;;M;Prof;Hochschule Fulda;Hochschule;Fulda;Hessen;DE;https://www.hs-fulda.de/sozial-kulturwissenschaften/forschung/forschungsinstitut-point-alpha-ev/details/person/prof-dr-matthias-klemm-3-948/contactBox;25.05.26;Lukas
+Stefanie;Kley;Kley, Stefanie;FALSCH;FALSCH;0000-0003-3400-7799;WAHR;WAHR;;F;Prof;Universität Hamburg;Uni;Hamburg;Hamburg;DE;https://www.wiso.uni-hamburg.de/fachbereich-sowi/professuren/kley/team/kley-stefanie.html;25.05.26;Lukas
+Andreas;Klocke;Klocke, Andreas;FALSCH;FALSCH;0000-0001-5842-4875;FALSCH;WAHR;ruhestand;M;Prof;Frankfurt University of Applied Sciences;Hochschule;Frankfurt am Main;Hessen;DE;https://www.frankfurt-university.de/de/hochschule/fachbereich-4-soziale-arbeit-gesundheit/kontakt/professor-innen/andreas-klocke-ir/;25.05.26;Lukas
+Katharina;Kluczniok;Kluczniok, Katharina;FALSCH;FALSCH;0000-0001-5809-9726;WAHR;WAHR;;F;Prof;Freie Universität Berlin;Uni;Berlin;Berlin;DE;https://www.ewi-psy.fu-berlin.de/erziehungswissenschaft/arbeitsbereiche/fruehkindliche_bildung_erziehung/Mitarbeitende/Aktuelles-Team/Kluczniok_Katharina/index.html;25.05.26;Lukas
+Andre H.;Knabe;Knabe, Andre H.;FALSCH;FALSCH;0000-0001-9509-6321;WAHR;WAHR;;M;Postdoc;Rostock Institute for Social Research and Social Practice;Forschungszentrum;Rostock;Mecklenburg-Vorpommern;DE;https://rostocker-institut.org/andre-knabe/;25.05.26;Lukas
+Karsten;König;König, Karsten;FALSCH;FALSCH;0009-0002-4436-428X;FALSCH;WAHR;;M;Prof;Internationale Hochschule (IU);Hochschule;Erfurt;Thüringen;DE;https://www.iu.de/hochschule/lehrende/konig-karsten/;25.05.26;Lukas
+Irena;Kogan;Kogan, Irena;FALSCH;FALSCH;0000-0002-2841-1296;WAHR;WAHR;;F;Prof;University of Mannheim;Uni;Mannheim;Baden-Württemberg;DE;https://www.sowi.uni-mannheim.de/kogan/team/lehrstuhlinhaberin/;25.05.26;Lukas
+Martin;Kohli;Kohli, Martin;FALSCH;FALSCH;0000-0002-3672-9587;FALSCH;FALSCH;;M;Prof;European University Institute;Uni;Fiesole;Toscana;IT;https://www.eui.eu/people?id=martin-kohli;25.05.26;Lukas
+Bettina;Kohlrausch;Kohlrausch, Bettina;WAHR;FALSCH;;FALSCH;FALSCH;;F;Prof;Wirtschafts- und Sozialwissenschaftlichen Instituts der Hans-Böckler-Stiftung;Forschungszentrum;Düsseldorf;Nordrhein-Westfalen;DE;https://www.boeckler.de/de/personensuche-42927-prof-dr-bettina-kohlrausch-22376.htm;25.05.26;Lukas
+Silke;Kohrs;Kohrs, Silke;WAHR;FALSCH;;FALSCH;FALSCH;;F;Postdoc;Technische Universität Dortmund;Uni;Dortmund;Nordrhein-Westfalen;DE;https://su.sowi.tu-dortmund.de/professur/team/dr-silke-kohrs/;25.05.26;Lukas
+Dirk;Konietzka;Konietzka, Dirk;FALSCH;FALSCH;0000-0002-9729-1902;WAHR;WAHR;;M;Prof;Technische Universität Braunschweig;Uni;Braunschweig;Niedersachsen;DE;https://www.tu-braunschweig.de/ses/team/konietzka;25.05.26;Lukas
+Cornelia;Koppetsch;Koppetsch, Cornelia;FALSCH;FALSCH;0000-0003-0789-015X;FALSCH;FALSCH;;F;Prof;Technische Universität Darmstadt;Uni;Darmstadt;Hessen;DE;https://www.ifs.tu-darmstadt.de/institut_ifs/mitarbeitende_ifs/koppetsch_ifs/index.de.jsp;25.05.26;Lukas
+Andrea;Kottmann;Kottmann, Andrea;FALSCH;FALSCH;0000-0003-1416-2521;FALSCH;WAHR;;F;Prof;University of Twente;Uni;Enschede;Overijssel;NL;https://research.utwente.nl/en/persons/andrea-kottmann/;25.05.26;Lukas
+Klaus;Kraemer;Kraemer, Klaus;FALSCH;FALSCH;0000-0003-1365-6212;WAHR;FALSCH;;M;Prof;University of Graz;Uni;Graz;Styria;AT;https://homepage.uni-graz.at/de/klaus.kraemer/;25.05.26;Lukas
+Uwe;Krähnke;Krähnke, Uwe;FALSCH;FALSCH;0000-0003-0803-7089;FALSCH;WAHR;;M;Prof;MSB Medical School Berlin Hochschule für Gesundheit und Medizin;Uni;Berlin;Berlin;DE;https://www.medicalschool-berlin.de/team-msb/team-fakultaet-naturwissenschaften/prof-dr-habil-uwe-kraehnke/;25.05.26;Lukas
+Michaela;Kreyenfeld;Kreyenfeld, Michaela;FALSCH;FALSCH;0000-0001-9420-3818;WAHR;WAHR;;F;Prof;Hertie School;Uni;Berlin;Berlin;DE;https://www.hertie-school.org/de/ueber-uns/profil/person/kreyenfeld;25.05.26;Lukas
+Cornelia;Kristen;Kristen, Cornelia;FALSCH;FALSCH;0000-0003-3426-9174;WAHR;WAHR;;F;Prof;Otto-Friedrich-Universität Bamberg;Uni;Bamberg;Bayern;DE;https://www.uni-bamberg.de/sozstruk/personen/prof-dr-kristen/;25.05.26;Lukas
+Jacqueline;Kroh;Kroh, Jacqueline;FALSCH;FALSCH;0000-0003-4938-4482;WAHR;WAHR;;F;Prof;Leibniz Institute for Educational Trajectories;Forschungszentrum;Bamberg;Bayern;DE;https://www.lifbi.de/de-de/Start/Institut/Personen/Person/account/1373?name=Kroh,Jacqueline;25.05.26;Lukas
+Thomas;Kruppe;Kruppe, Thomas;FALSCH;FALSCH;0009-0008-5533-3220;WAHR;WAHR;;M;Prof;FAU Erlangen-Nürnberg;Uni;Erlangen;Bayern;DE;https://www.soziologie.phil.fau.de/thomas-kruppe/;25.05.26;Lukas
+Harald;Künemund;Künemund, Harald;FALSCH;FALSCH;0000-0003-4353-2333;FALSCH;WAHR;;M;Prof;Universität Vechta;Uni;Vechta;Niedersachsen;DE;https://www.uni-vechta.de/gerontologie/personen;25.05.26;Lukas
+Jan;Künzler;Künzler, Jan;WAHR;FALSCH;;FALSCH;FALSCH;;M;Postdoc;Universität Würzburg;Uni;Würzburg;Bayern;DE;https://www.politikwissenschaft.uni-wuerzburg.de/lehrbereiche/empirische/ehemalige-mitarbeitende/pd-dr-jan-kuenzler/;25.05.26;Lukas
+Antonia;Kupfer;Kupfer, Antonia;FALSCH;FALSCH;0000-0001-9882-0311;WAHR;FALSCH;;F;Prof;Technical University Dresden;Uni;Dresden;Sachsen;DE;https://tu-dresden.de/gsw/phil/iso/mak/die-professur/prof-dr-kupfer;25.05.26;Lukas
+Katharina;Kunißen;Kunißen, Katharina;FALSCH;FALSCH;0000-0002-8330-6392;WAHR;WAHR;;F;Postdoc;Universität Mainz;Uni;Mainz;Rheinland-Pfalz;DE;https://sozialstruktur.soziologie.uni-mainz.de/kunissen/;25.05.26;Lukas
+Karin;Kurz;Kurz, Karin;FALSCH;FALSCH;0000-0002-0661-0075;FALSCH;FALSCH;;F;Prof;University of Göttingen;Uni;Göttingen;Niedersachsen;DE;https://www.uni-goettingen.de/de/prof.+dr.+karin+kurz/94296.html;25.05.26;Lukas
+Sandra;Landhäußer;Landhäußer, Sandra;FALSCH;FALSCH;0009-0001-2960-4305;FALSCH;FALSCH;;F;.;.;.;.;.;.;.;.;.
+Andrea;Lange-Vester;Lange-Vester, Andrea;FALSCH;WAHR;;FALSCH;FALSCH;;F;.;.;.;.;.;.;.;.;.
+Wolfgang;Lauterbach;Lauterbach, Wolfgang;FALSCH;FALSCH;0000-0002-8632-8802;FALSCH;WAHR;;M;Prof;University of Potsdam;.;Potsdam;Brandenburg;DE;.;.;.
+Regula Julia;Leemann;Leemann, Regula Julia;FALSCH;FALSCH;0000-0001-5983-2694;WAHR;WAHR;;F;.;University of Applied Sciences - School of Education;.;Basel-Muttenz;.;CH;.;.;.
+René;Leicht;Leicht, René;WAHR;FALSCH;;FALSCH;FALSCH;;M;.;.;.;.;.;.;.;.;.
+Diana;Lengersdorf;Lengersdorf, Diana;FALSCH;FALSCH;0000-0001-9982-0073;FALSCH;FALSCH;;F;.;.;.;.;.;.;.;.;.
+Holger;Lengfeld;Lengfeld, Holger;FALSCH;FALSCH;0000-0003-4863-0784;FALSCH;FALSCH;;M;.;.;.;.;.;.;.;.;.
+Thomas;Leopold;Leopold, Thomas;FALSCH;FALSCH;0000-0001-5554-3254;WAHR;WAHR;;M;.;University of Cologne;.;Köln;.;DE;.;.;.
+Sarah;Lenz;Lenz, Sarah;FALSCH;FALSCH;0000-0003-1848-7278;WAHR;WAHR;;F;.;.;.;.;.;.;.;.;.
+Philipp;Lersch;Lersch, Philipp;FALSCH;FALSCH;0000-0003-3863-8301;WAHR;WAHR;;M;.;German Institute for Economic Research;.;Berlin;Berlin;DE;.;.;.
+Kathrin;Leuze;Leuze, Kathrin;FALSCH;FALSCH;0000-0002-0029-119X;WAHR;WAHR;;F;Prof;Friedrich Schiller University Jena;.;Jena;Thüringen;DE;.;.;.
+Uta;Liebeskind;Liebeskind, Uta;FALSCH;FALSCH;0009-0001-0292-8596;WAHR;FALSCH;;F;.;University of Siegen;.;Siegen;Nordrhein-Westfalen;DE;.;.;.
+Stefan;Liebig;Liebig, Stefan;FALSCH;FALSCH;0000-0002-9977-6874;WAHR;WAHR;;M;Prof;Freie Universität Berlin;.;Berlin;.;DE;.;.;.
+Henning;Lohmann;Lohmann, Henning;FALSCH;FALSCH;0009-0007-1398-0270;WAHR;WAHR;;M;.;Universität Hamburg;.;Hamburg;.;DE;.;.;.
+Katharina;Loter;Loter, Katharina;FALSCH;FALSCH;0000-0003-2080-2038;WAHR;WAHR;;F;Prof;Tilburg University;.;Tilburg;Noord-Brabant;NL;.;.;.
+Wolfgang;Ludwig-Mayerhofer;Ludwig-Mayerhofer, Wolfgang;FALSCH;FALSCH;0000-0001-9954-4662;FALSCH;FALSCH;;M;.;.;.;.;.;.;.;.;.
+Thomas;Lux;Lux, Thomas;FALSCH;FALSCH;0000-0002-3286-2655;WAHR;WAHR;;M;Prof;Humboldt-Universität zu Berlin;.;Berlin;.;DE;.;.;.
+Bettina;Mahlert;Mahlert, Bettina;FALSCH;FALSCH;0000-0003-1540-828X;WAHR;WAHR;;F;.;.;.;.;.;.;.;.;.
+Alexandra;Manske;Manske, Alexandra;FALSCH;FALSCH;0000-0002-2389-8402;FALSCH;FALSCH;;F;.;.;.;.;.;.;.;.;.
+Kai;Marquardsen;Marquardsen, Kai;WAHR;FALSCH;;FALSCH;FALSCH;;M;.;.;.;.;.;.;.;.;.
+Ulrike;Martiny;Martiny, Ulrike;WAHR;FALSCH;;FALSCH;FALSCH;;F;.;.;.;.;.;.;.;.;.
+Yevgeniy;Martynovych;Martynovych, Yevgeniy;FALSCH;FALSCH;0009-0009-9495-2259;WAHR;WAHR;;M;.;Technische Universität Braunschweig;.;Braunschweig;.;DE;.;.;.
+Britta;Matthes;Matthes, Britta;FALSCH;FALSCH;0009-0005-7671-0345;FALSCH;WAHR;;F;.;Institut für Arbeitsmarkt und Berufsforschung;.;Nürnberg;.;DE;.;.;.
+Steffen;Mau;Mau, Steffen;FALSCH;FALSCH;0000-0002-4771-1673;WAHR;WAHR;;M;Prof;Max-Planck-Institut zur Erforschung Multireligiöser und Multiethnischer Gesellschaften;.;Göttingen;Niedersachsen;DE;.;.;.
+Jutta von;Maurice;Maurice, Jutta von;WAHR;FALSCH;;FALSCH;FALSCH;;F;.;.;.;.;.;.;.;.;.
+Karl-Ulrich;Mayer;Mayer, Karl-Ulrich;FALSCH;FALSCH;0000-0002-3265-0089;WAHR;WAHR;;M;Prof;Max Planck Institute for Human Development;.;Berlin;Berlin;DE;.;.;.
+Lars;Meier;Meier, Lars;FALSCH;FALSCH;0000-0002-1385-4908;WAHR;WAHR;;M;Prof;Goethe-Universität Frankfurt am Main;.;Frankfurt am Main;Hessen;DE;.;.;.
+Laura;Menze;Menze, Laura;FALSCH;FALSCH;0000-0003-3442-279X;WAHR;WAHR;;F;.;Bundesanstalt für Arbeitsschutz und Arbeitsmedizin Standort Berlin;.;Berlin;Berlin;DE;.;.;.
+Heinz-Günter;Micheel;Micheel, Heinz-Günter;WAHR;FALSCH;;FALSCH;FALSCH;;M;.;.;.;.;.;.;.;.;.
+Tatjana;Mika;Mika, Tatjana;FALSCH;FALSCH;0000-0001-9707-1654;FALSCH;WAHR;;F;.;Deutsche Rentenversicherung Bund;.;Berlin;Berlin;DE;.;.;.
+Lara;Minkus;Minkus, Lara;FALSCH;FALSCH;0000-0002-4856-3262;FALSCH;WAHR;;F;.;.;.;.;.;.;.;.;.
+Frederick de;Moll;Moll, Frederick de;FALSCH;FALSCH;0000-0002-5275-749X;FALSCH;FALSCH;;M;Prof;Bielefeld University;.;Bielefeld;.;DE;.;.;.
+Christine;Möller;Möller, Christine;FALSCH;WAHR;;FALSCH;FALSCH;;F;.;.;.;.;.;.;.;.;.
+Mona;Motakef;Motakef, Mona;FALSCH;FALSCH;0000-0002-8542-8537;WAHR;WAHR;;F;.;Technische Universität Dortmund;.;Dortmund;Nordrhein-Westfalen;DE;.;.;.
+Andreas;Motel-Klingebiel;Motel-Klingebiel, Andreas;FALSCH;FALSCH;0000-0001-8697-1876;FALSCH;WAHR;;M;Prof;Linköpings universitet;.;Linkoping;.;SE;.;.;.
+Katja;Möhring;Möhring, Katja;FALSCH;FALSCH;0000-0002-3742-5374;WAHR;WAHR;;F;Prof;University of Bamberg;.;Bamberg;.;DE;.;.;.
+Michael;Mudiappa;Mudiappa, Michael;FALSCH;FALSCH;0000-0003-2553-129X;FALSCH;FALSCH;;M;.;.;.;.;.;.;.;.;.
+Dana;Müller;Müller, Dana;FALSCH;WAHR;;FALSCH;FALSCH;;F;.;.;.;.;.;.;.;.;.
+Katja;Müller;Müller, Katja;FALSCH;WAHR;;FALSCH;FALSCH;;F;.;.;.;.;.;.;.;.;.
+Sighard;Neckel;Neckel, Sighard;FALSCH;FALSCH;0000-0002-2622-290X;WAHR;WAHR;;M;Prof;Universität Hamburg;.;Hamburg;Hamburg;DE;.;.;.
+Claudia;Neu;Neu, Claudia;FALSCH;FALSCH;0009-0009-0923-5475;FALSCH;FALSCH;;F;Prof;University of Göttingen;.;Göttingen;.;DE;.;.;.
+Martin;Neugebauer;Neugebauer, Martin;FALSCH;FALSCH;0000-0002-3496-3804;WAHR;WAHR;;M;.;.;.;.;.;.;.;.;.
+Yasemin;Niephaus;Niephaus, Yasemin;FALSCH;FALSCH;0009-0005-1834-3508;FALSCH;FALSCH;;F;.;University of Siegen;.;Siegen;Nordrhein-Westfalen;DE;.;.;.
+Natascha;Nisic;Nisic, Natascha;FALSCH;FALSCH;0000-0003-0676-2340;WAHR;WAHR;;F;.;Johannes Gutenberg University Mainz;.;Mainz;.;DE;.;.;.
+Natalie;Nitsche;Nitsche, Natalie;FALSCH;FALSCH;0000-0002-9744-5393;WAHR;WAHR;;F;.;The Australian National University;.;Unknown City;.;AU;.;.;.
+Gerd;Nollmann;Nollmann, Gerd;FALSCH;FALSCH;0009-0001-6873-994X;FALSCH;FALSCH;;M;Prof;Karlsruhe Institute of Technology;.;Karlsruhe;Baden-Württemberg;DE;.;.;.
+Magdalena;Nowicka;Nowicka, Magdalena;FALSCH;FALSCH;0000-0002-0232-5242;WAHR;WAHR;;F;.;German Center for Integration and Migration Research;.;Berlin;.;DE;.;.;.
+Oliver;Nüchter;Nüchter, Oliver;WAHR;FALSCH;;FALSCH;FALSCH;;M;.;.;.;.;.;.;.;.;.
+Fabian;Ochsenfeld;Ochsenfeld, Fabian;WAHR;FALSCH;;FALSCH;FALSCH;;M;.;.;.;.;.;.;.;.;.
+Clemes;Ohlert;Ohlert, Clemes;WAHR;FALSCH;;FALSCH;FALSCH;;M;.;.;.;.;.;.;.;.;.
+Jessica;Ordemann;Ordemann, Jessica;FALSCH;FALSCH;0000-0002-7645-3052;WAHR;WAHR;;F;.;German Centre for Higher Education Research and Science Studies;.;Hannover;Niedersachsen;DE;.;.;.
+Gunnar;Otte;Otte, Gunnar;FALSCH;FALSCH;0000-0001-7025-2543;WAHR;WAHR;;M;Prof;Johannes Gutenberg University of Mainz;.;Mainz;Rheinland-Pfalz;DE;.;.;.
+Danny;Otto;Otto, Danny;FALSCH;FALSCH;0000-0001-6045-5531;FALSCH;WAHR;;M;.;.;.;.;.;.;.;.;.
+Svenja;Pfahl;Pfahl, Svenja;FALSCH;FALSCH;0009-0006-6838-1067;FALSCH;WAHR;;F;Prof;SowiTra;.;Berlin;.;DE;.;.;.
+Fabian T.;Pfeffer;Pfeffer, Fabian T.;FALSCH;FALSCH;0000-0002-6196-0617;FALSCH;FALSCH;;M;.;.;.;.;.;.;.;.;.
+Timo-Kolja;Pförtner;Pförtner, Timo-Kolja;FALSCH;FALSCH;0000-0002-8188-894X;FALSCH;WAHR;;M;.;.;.;.;.;.;.;.;.
+Patricia;Pielage;Pielage, Patricia;WAHR;FALSCH;;FALSCH;FALSCH;;F;.;.;.;.;.;.;.;.;.
+Reinhard;Pollak;Pollak, Reinhard;FALSCH;FALSCH;0000-0003-4522-2865;WAHR;WAHR;;M;.;.;.;.;.;.;.;.;.
+Matthias;Pollmann-Schult;Pollmann-Schult, Matthias;FALSCH;FALSCH;0000-0002-0010-1667;WAHR;WAHR;;M;Prof;University of Siegen;.;Siegen;Nordrhein-Westfalen;DE;.;.;.
+Justin J. W.;Powell;Powell, Justin J. W.;FALSCH;FALSCH;0000-0002-6567-6189;WAHR;WAHR;;M;Prof;University of Luxembourg;.;Luxembourg;.;LU;.;.;.
+Markus;Promberger;Promberger, Markus;FALSCH;FALSCH;0000-0003-3863-8053;WAHR;FALSCH;;M;Prof;Institut für Arbeitsmarkt und Berufsforschung;.;Nürnberg;Bayern;DE;.;.;.
+Paula;Protsch;Protsch, Paula;FALSCH;FALSCH;0000-0002-2401-0567;WAHR;WAHR;;F;.;University of Cologne;.;Köln;.;DE;.;.;.
+Marcel;Raab;Raab, Marcel;FALSCH;FALSCH;0000-0002-3097-1591;WAHR;WAHR;;M;.;State Institute for Family Research at the University of Bamberg (ifb);.;Bamberg;.;DE;.;.;.
+David;Reimer;Reimer, David;FALSCH;FALSCH;0000-0002-8648-3829;WAHR;WAHR;;M;Prof;Aarhus University;.;Aarhus;Jutland;DK;.;.;.
+Tilman;Reitz;Reitz, Tilman;FALSCH;WAHR;;FALSCH;FALSCH;;M;.;.;.;.;.;.;.;.;.
+Jörg;Rössel;Rössel, Jörg;FALSCH;FALSCH;0000-0002-1217-5727;WAHR;WAHR;;M;Prof;University of Zurich;.;Zür;.;CH;.;.;.
+Alessandra;Rusconi;Rusconi, Alessandra;FALSCH;FALSCH;0009-0000-5523-198X;WAHR;WAHR;;F;.;.;.;.;.;.;.;.;.
+Patrick;Sachweh;Sachweh, Patrick;FALSCH;FALSCH;0000-0002-8506-5203;WAHR;WAHR;;M;Prof;University of Bremen;.;Bremen;.;DE;.;.;.
+Reinhold;Sackmann;Sackmann, Reinhold;FALSCH;FALSCH;;FALSCH;FALSCH;Undisplayable ORCID but likely this professor;M;.;.;.;.;.;.;.;.;.
+Karin;Sardadvar;Sardadvar, Karin;FALSCH;FALSCH;0000-0002-8649-2207;FALSCH;WAHR;;F;.;Wirtschaftsuniversität Wien;.;Wien;Wien;AT;.;.;.
+Carsten;Sauer;Sauer, Carsten;FALSCH;FALSCH;0000-0002-8090-6886;WAHR;WAHR;;M;Prof;Universität Bielefeld;.;Bielefeld;Nordrhein-Westfalen;DE;.;.;.
+Tim;Sawert;Sawert, Tim;FALSCH;FALSCH;0000-0002-1505-5958;WAHR;WAHR;;M;.;Johannes Gutenberg Universität Mainz Gutenberg Forschungskolleg;.;Mainz;Rheinland-Pfalz;DE;.;.;.
+Miriam;Schad;Schad, Miriam;FALSCH;FALSCH;0000-0002-4767-2010;WAHR;WAHR;;F;.;Institute for Social-Ecological Research;.;Frankfurt am Main;Hessen;DE;.;.;.
+Brigitte;Schels;Schels, Brigitte;FALSCH;FALSCH;0000-0002-9736-7276;FALSCH;WAHR;;F;Prof;Paris Lodron University of Salzburg;.;Salzburg;.;AT;.;.;.
+Simone;Scherger;Scherger, Simone;FALSCH;FALSCH;0000-0003-1708-1372;WAHR;WAHR;;F;Prof;University of Bremen, SOCIUM Research Center on Inequality and Social Policy;.;Bremen;.;DE;.;.;.
+Elisabeth;Schilling;Schilling, Elisabeth;FALSCH;FALSCH;0009-0005-8482-4393;WAHR;WAHR;;F;Prof;Hochschule für Polizei und öffentliche Verwaltung NRW;.;Bielefeld;.;DE;.;.;.
+Peter;Schimany;Schimany, Peter;FALSCH;WAHR;;FALSCH;FALSCH;last name missing;M;.;.;.;.;.;.;.;.;.
+Steffen;Schindler;Schindler, Steffen;FALSCH;FALSCH;0000-0002-3999-4618;WAHR;WAHR;;M;.;.;.;.;.;.;.;.;.
+Karin;Schittenhelm;Schittenhelm, Karin;FALSCH;FALSCH;0009-0007-2089-1751;WAHR;WAHR;;F;.;University of Siegen;.;Siegen;Nordrhein-Westfalen;DE;.;.;.
+Martin;Schmeiser;Schmeiser, Martin;WAHR;FALSCH;;FALSCH;FALSCH;;M;.;.;.;.;.;.;.;.;.
+Imke;Schmincke;Schmincke, Imke;FALSCH;FALSCH;0009-0006-4974-3798;WAHR;FALSCH;;F;.;.;.;.;.;.;.;.;.
+Christian;Schmitt;Schmitt, Christian;FALSCH;WAHR;;FALSCH;FALSCH;;M;.;.;.;.;.;.;.;.;.
+Andreas;Schmitz;Schmitz, Andreas;FALSCH;FALSCH;0000-0002-9453-5748;WAHR;WAHR;;M;.;.;.;.;.;.;.;.;.
+Silke;Schneider;Schneider, Silke;FALSCH;FALSCH;0000-0001-5531-5040;WAHR;WAHR;;F;.;GESIS - Leibniz Institute for the Social Sciences;.;Mannheim;.;DE;.;.;.
+Thorsten;Schneider;Schneider, Thorsten;FALSCH;FALSCH;0000-0002-9594-5044;WAHR;WAHR;;M;Prof;Universität Leipzig;.;Leipzig;Sachsen;DE;.;.;.
+Pia;Schober;Schober, Pia;FALSCH;FALSCH;0000-0003-1953-1197;WAHR;WAHR;;F;Prof;Eberhard Karls Universität Tübingen;.;Tübingen;Baden-Württemberg;DE;.;.;.
+Nadine M.;Schöneck-Voß;Schöneck-Voß, Nadine M.;FALSCH;FALSCH;0000-0002-6806-2270;WAHR;WAHR;;F;.;.;.;.;.;.;.;.;.
+Tim;Schröder;Schröder, Tim;FALSCH;WAHR;;FALSCH;FALSCH;;M;.;.;.;.;.;.;.;.;.
+Wiebke;Schulz;Schulz, Wiebke;FALSCH;FALSCH;0000-0001-9335-3187;WAHR;WAHR;;F;Prof;University of Bremen;.;Bremen;.;DE;.;.;.
+Reinhard;Schunck;Schunck, Reinhard;FALSCH;FALSCH;0000-0002-8185-8919;WAHR;WAHR;;M;.;.;.;.;.;.;.;.;.
+Jürgen;Schupp;Schupp, Jürgen;FALSCH;FALSCH;0000-0001-5273-643X;WAHR;WAHR;;M;.;German Institute for Economic Research;.;Berlin;Berlin;DE;.;.;.
+Petra;Schütt;Schütt, Petra;WAHR;FALSCH;;FALSCH;FALSCH;;F;.;.;.;.;.;.;.;.;.
+Thomas;Schwinn;Schwinn, Thomas;FALSCH;FALSCH;0009-0007-2387-2150;WAHR;FALSCH;;M;Prof;Heidelberg University;.;Heidelberg;Baden-Württemberg;DE;.;.;.
+Marco;Seegers;Seegers, Marco;FALSCH;FALSCH;0000-0002-0934-2707;WAHR;WAHR;;M;.;Federal Institute for Vocational Education and Training;.;Bonn;.;DE;.;.;.
+Holger;Seibert;Seibert, Holger;FALSCH;FALSCH;0009-0006-0661-8073;WAHR;FALSCH;;M;.;Institut für Arbeitsmarkt und Berufsforschung;.;Nürnberg;Bayern;DE;.;.;.
+Julia;Simonson;Simonson, Julia;FALSCH;FALSCH;0000-0001-8078-7189;WAHR;WAHR;;F;.;German Centre of Gerontology;.;Berlin;.;DE;.;.;.
+Michaela;Sixt;Sixt, Michaela;WAHR;FALSCH;;FALSCH;FALSCH;;F;.;.;.;.;.;.;.;.;.
+Janina;Söhn;Söhn, Janina;WAHR;FALSCH;;FALSCH;FALSCH;;F;.;.;.;.;.;.;.;.;.
+Heike;Solga;Solga, Heike;FALSCH;FALSCH;0000-0002-1589-4380;WAHR;WAHR;;F;Prof;Wissenschaftszentrum Berlin für Sozialforschung;.;Berlin;Berlin;DE;.;.;.
+Ilka;Sommer;Sommer, Ilka;FALSCH;FALSCH;0000-0002-4595-3724;WAHR;FALSCH;;F;.;.;.;.;.;.;.;.;.
+Regina;Soremski;Soremski, Regina;FALSCH;FALSCH;0009-0008-2861-3462;WAHR;WAHR;;F;.;University of Giessen;.;Giessen;Hessen;DE;.;.;.
+Frank;Sowa;Sowa, Frank;FALSCH;FALSCH;0000-0002-5457-1963;WAHR;WAHR;;M;Prof;Technische Hochschule Nürnberg Georg Simon Ohm;.;Nurnberg;Bayern;DE;.;.;.
+Dorothee;Spannagel;Spannagel, Dorothee;WAHR;FALSCH;;FALSCH;FALSCH;;F;.;.;.;.;.;.;.;.;.
+Sarah;Speck;Speck, Sarah;FALSCH;WAHR;;FALSCH;FALSCH;;F;.;.;.;.;.;.;.;.;.
+Annette;Spellerberg;Spellerberg, Annette;FALSCH;FALSCH;0000-0002-6089-7708;WAHR;WAHR;;F;Prof;University of Kaiserslautern;.;Kaiserslautern;Rheinland-Pfalz;DE;.;.;.
+Philipp;Staab;Staab, Philipp;FALSCH;FALSCH;0000-0003-3822-6753;WAHR;WAHR;;M;.;.;.;.;.;.;.;.;.
+Christine;Steiner;Steiner, Christine;FALSCH;FALSCH;0000-0003-0435-9363;WAHR;FALSCH;;F;Prof;German Youth Institute;.;Munich;Bayern;DE;.;.;.
+Annett;Steinführer;Steinführer, Annett;FALSCH;FALSCH;0000-0001-7387-9114;WAHR;WAHR;;F;.;Johann Heinrich von Thünen Institute;.;Braunschweig;.;DE;.;.;.
+Susanne;Strauß;Strauß, Susanne;FALSCH;FALSCH;0000-0001-9875-2179;WAHR;WAHR;;F;Prof;Universität Konstanz;.;Konstanz;Baden-Württemberg;DE;.;.;.
+Olaf;Struck;Struck, Olaf;FALSCH;FALSCH;0000-0002-7631-6365;WAHR;WAHR;;M;.;Otto-Friedrich-Universität Bamberg;.;Bamberg;.;DE;.;.;.
+Ferdinand;Sutterlüty;Sutterlüty, Ferdinand;FALSCH;FALSCH;0000-0003-1750-6748;WAHR;FALSCH;;M;.;.;.;.;.;.;.;.;.
+Marc;Szydlik;Szydlik, Marc;FALSCH;FALSCH;;FALSCH;FALSCH;;M;.;.;.;.;.;.;.;.;.
+Nils;Teichler;Teichler, Nils;FALSCH;FALSCH;0009-0005-0187-0563;WAHR;WAHR;;M;.;.;.;.;.;.;.;.;.
+Christel;Teiwes-Kügler;Teiwes-Kügler, Christel;WAHR;FALSCH;;FALSCH;FALSCH;;F;.;.;.;.;.;.;.;.;.
+Sylvia;Terpe;Terpe, Sylvia;FALSCH;FALSCH;0000-0002-1080-3128;WAHR;FALSCH;;F;.;.;.;.;.;.;.;.;.
+Nicole;Tieben;Tieben, Nicole;FALSCH;FALSCH;0000-0001-8141-3955;WAHR;WAHR;;F;.;Leibniz University Hannover;.;Hannover;.;DE;.;.;.
+Daria;Tisch;Tisch, Daria;FALSCH;FALSCH;0000-0002-2973-2008;WAHR;WAHR;;F;.;Humboldt-Universität zu Berlin;.;Berlin;Berlin;DE;.;.;.
+Silke;Tophoven;Tophoven, Silke;FALSCH;FALSCH;0000-0002-5542-0665;WAHR;WAHR;;F;.;Hochschule Düsseldorf University of Applied Sciences;.;Düsseldorf;.;DE;.;.;.
+Heike;Trappe;Trappe, Heike;FALSCH;FALSCH;0000-0002-6109-9732;WAHR;WAHR;;F;.;.;.;.;.;.;.;.;.
+Nhat An;Trinh;Trinh, Nhat An;FALSCH;FALSCH;0000-0002-4448-0160;WAHR;WAHR;;F;.;.;.;.;.;.;.;.;.
+Ingrid;Tucci;Tucci, Ingrid;FALSCH;FALSCH;0000-0002-2915-0294;WAHR;WAHR;;F;.;CNRS ;.;Aix en Provence;Sud;FR;.;.;.
+Julia;Tuppat;Tuppat, Julia;FALSCH;FALSCH;0000-0002-2728-5929;WAHR;WAHR;;F;Prof;Leipzig University;.;Leipzig;Sachsen;DE;.;.;.
+Rainer;Unger;Unger, Rainer;FALSCH;FALSCH;0000-0003-3246-7847;WAHR;WAHR;;M;.;Empire State College Harry Van Arsdale Junior Center for Labor Studies;.;New York;New York;US;.;.;.
+Leen;Vandecasteele;Vandecasteele, Leen;FALSCH;FALSCH;0000-0003-0707-4224;WAHR;WAHR;;F;Prof;University of Lausanne;.;Lausanne;.;CH;.;.;.
+Laszlo A.;Vaskovics;Vaskovics, Laszlo A.;WAHR;FALSCH;;FALSCH;FALSCH;;M;.;.;.;.;.;.;.;.;.
+Roland;Verwiebe;Verwiebe, Roland;FALSCH;FALSCH;0000-0002-3202-8820;WAHR;WAHR;;M;Prof;University of Potsdam;.;Potsdam;.;DE;.;.;.
+Michael;Vester;Vester, Michael;FALSCH;FALSCH;0009-0007-2574-4734;WAHR;FALSCH;;M;.;.;.;.;.;.;.;.;.
+Basha;Vicari;Vicari, Basha;FALSCH;FALSCH;0000-0001-8311-7498;WAHR;WAHR;;F;Prof;City of Erlangen;.;Erlangen;.;DE;.;.;.
+Berthold;Vogel;Vogel, Berthold;FALSCH;FALSCH;0009-0002-1118-6229;FALSCH;FALSCH;Undisplayable ORCID but likely this director;M;.;.;.;.;.;.;.;.;.
+Claudia;Vogel;Vogel, Claudia;FALSCH;FALSCH;0000-0001-9412-807X;WAHR;WAHR;;F;.;Neubrandenburg University of Applied Sciences;.;Neubrandenburg;Mecklenburg-Vorpommern;DE;.;.;.
+Constantin;Wagner;Wagner, Constantin;FALSCH;FALSCH;0000-0003-2718-7357;WAHR;WAHR;;M;.;.;.;.;.;.;.;.;.
+Nora;Waitkus;Waitkus, Nora;FALSCH;FALSCH;0000-0001-6905-3360;WAHR;WAHR;;F;.;.;.;.;.;.;.;.;.
+Katharina;Walgenbach;Walgenbach, Katharina;FALSCH;FALSCH;0009-0000-8322-7718;WAHR;WAHR;;F;Prof; FernUniversität in Hagen;.;Hagen;Nordrhein-Westfalen;DE;.;.;.
+Jan;Wehrheim;Wehrheim, Jan;WAHR;FALSCH;;FALSCH;FALSCH;;M;.;.;.;.;.;.;.;.;.
+Christoph;Weischer;Weischer, Christoph;WAHR;FALSCH;;FALSCH;FALSCH;;M;.;.;.;.;.;.;.;.;.
+Mareike;Weil;Weil, Mareike;WAHR;FALSCH;;FALSCH;FALSCH;;F;.;.;.;.;.;.;.;.;.
+Anja;Weiß;Weiß, Anja;FALSCH;FALSCH;0000-0002-9676-8326;WAHR;WAHR;;F;Prof;University of Duisburg-Essen;.;Essen;Nordrhein-Westfalen;DE;.;.;.
+Bernd;Weiß;Weiß, Bernd;FALSCH;FALSCH;0000-0002-1176-8408;WAHR;FALSCH;;M;Prof;University of Duisburg-Essen;.;Duisburg;Nordrhein-Westfalen;DE;.;.;.
+Felix;Weiß;Weiß, Felix;FALSCH;FALSCH;0000-0002-1685-3732;WAHR;WAHR;;M;Prof;Aarhus University;.;Aarhus;Jutland;DK;.;.;.
+Ulrich;Wenzel;Wenzel, Ulrich;FALSCH;WAHR;;FALSCH;FALSCH;;M;.;.;.;.;.;.;.;.;.
+Christine;Wimbauer;Wimbauer, Christine;FALSCH;FALSCH;0000-0003-1925-0475;WAHR;WAHR;;F;Prof;Humboldt University of Berlin;.;Berlin;.;DE;.;.;.
+Oliver;Winkler;Winkler, Oliver;FALSCH;FALSCH;0000-0001-8431-9577;WAHR;WAHR;;M;.;.;.;.;.;.;.;.;.
+Michael;Windzio;Windzio, Michael;FALSCH;FALSCH;0000-0002-7681-5893;WAHR;WAHR;;M;Prof;University of Bremen;.;Bremen;.;DE;.;.;.
+Heike;Wirth;Wirth, Heike;FALSCH;FALSCH;0000-0003-4278-5806;WAHR;FALSCH;Undisplayable ORCID but likey this GESIS research assistant;F;.;.;.;.;.;.;.;.;.
+Nils;Witte;Witte, Nils;FALSCH;WAHR;;FALSCH;FALSCH; ;M;.;.;.;.;.;.;.;.;.
+Tobias;Wolbring;Wolbring, Tobias;FALSCH;FALSCH;0000-0002-9053-7965;WAHR;FALSCH;;M;Prof;Friedrich-Alexander-Universität Erlangen-Nürnberg;.;Erlangen;Bayern;DE;.;.;.
+Fridolin;Wolf;Wolf, Fridolin;FALSCH;FALSCH;0009-0002-6041-278X;WAHR;WAHR;;M;.;.;.;.;.;.;.;.;.
+Philip;Wotschack;Wotschack, Philip;FALSCH;FALSCH;0000-0001-5899-9310;WAHR;WAHR;;M;.;.;.;.;.;.;.;.;.
+Aysel;Yollu-Tok;Yollu-Tok, Aysel;FALSCH;FALSCH;0000-0002-4728-8385;WAHR;WAHR;;F;Prof;BSP Business School Berlin;.;Berlin;.;DE;.;.;.
+Hannah;Zagel;Zagel, Hannah;FALSCH;FALSCH;0000-0002-5307-3380;WAHR;WAHR;;F;.;TU Dortmund University;.;Dortmund;Nordrhein-Westfalen;DE;.;.;.
+Frithjof;Zerger;Zerger, Frithjof;WAHR;FALSCH;;FALSCH;FALSCH;;M;.;.;.;.;.;.;.;.;.
+Dariuš;Zifonun;Zifonun, Dariuš;FALSCH;FALSCH;0000-0003-3758-2203;WAHR;FALSCH;Undisplayable ORCID but likely this professor ;M;.;.;.;.;.;.;.;.;.
+Conrad;Ziller;Ziller, Conrad;FALSCH;FALSCH;0000-0002-2282-636X;WAHR;WAHR;;M;.;University of Duisburg-Essen;.;Duisburg;Nordrhein-Westfalen;DE;.;.;.
+Lena;Zimmer;Zimmer, Lena;FALSCH;FALSCH;0000-0002-6932-0219;WAHR;FALSCH;Undisplayable ORCID but likely one of the authors of this articles that implies she is a sociologist;F;.;.;.;.;.;.;.;.;.
+Katharina;Zimmermann;Zimmermann, Katharina;FALSCH;FALSCH;0000-0002-1074-3356;WAHR;WAHR;;F;Prof;Universität Hamburg;.;Hamburg;Hamburg;DE;.;.;.
+Okka;Zimmermann;Zimmermann, Okka;FALSCH;FALSCH;0000-0002-1719-1777;WAHR;FALSCH; Research assistant at TU Braunschweig at the institute for sociology with linked (undisplayable) ORCID;F;.;TU Braunschweig;.;Braunschweig;Niedersachsen;DE;https://www.tu-braunschweig.de/ses/team/zimmermann;.;.
+Gundula;Zoch;Zoch, Gundula;FALSCH;FALSCH;0000-0002-4398-4535;WAHR;WAHR;;F;Prof;University of Oldenburg;.;Oldenburg;Schleswig-Holstein;DE;https://www.gundulazoch.de/;.;.
+Henriette;Bering;Bering, Henriette;FALSCH;FALSCH;0009-0008-4649-5682;WAHR;WAHR;;F;.;University of Bremen;.;Bremen;.;DE;.;.;.
+Magdalena;Polloczek;Polloczek, Magdalena;WAHR;FALSCH;;FALSCH;FALSCH;;F;.;.;.;.;.;.;.;.;.
+Marion;Fischer-Neumann;Fischer-Neumann, Marion;FALSCH;FALSCH;0000-0003-0141-6772;WAHR;WAHR;;F;.;University of Duisburg-Essen;.;Duisburg;Nordrhein-Westfalen;DE;.;.;.
+Kasimir;Dederichs;Dederichs, Kasimir;FALSCH;FALSCH;0000-0001-9379-0504;WAHR;WAHR;;M;.;.;.;.;.;.;.;.;.
+Cosima;Adams;Adams, Cosima;FALSCH;FALSCH;0009-0005-9120-2656;WAHR;WAHR;;F;.;Humboldt-Universität zu Berlin;.;Berlin;Berlin;DE;.;.;.

@@ -1,0 +1,18 @@
+# orcid-pipeline/requirements.txt
+
+# API & HTTP
+requests==2.32.5
+
+# Data processing
+pandas==3.0.0
+numpy==2.4.4
+
+# Output
+python-docx==1.2.0
+
+# Visualisation
+matplotlib==3.10.9
+networkx==3.4.2
+
+# Environment
+python-dotenv==1.1.0

@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Python
+.venv
+__pycache__
+*.pyc
+
+# Mac
+.DS_Store
+
+# Excel temp files
+~$*
