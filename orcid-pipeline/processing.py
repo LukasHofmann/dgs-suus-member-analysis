@@ -1,16 +1,25 @@
 import ast
 import re
 import os
+import unicodedata
 import pandas as pd
 import html
+
+def _normalize_str(s):
+    """NFC Unicode + collapsed whitespace + stripped edges."""
+    if not isinstance(s, str):
+        return s
+    return ' '.join(unicodedata.normalize('NFC', s).split())
+
 
 # --- Load journal aliases from CSV ---
 def load_journal_aliases():
     """Loads journal name aliases from data/journal_aliases.csv."""
     base_dir = os.path.dirname(os.path.abspath(__file__))
     file_path = os.path.join(base_dir, '..', 'data', 'journal_aliases.csv')
-    df = pd.read_csv(file_path, sep=';')
-    return dict(zip(df['raw'], df['clean']))
+    df = pd.read_csv(file_path, sep=';', comment='#')
+    raw = df['raw'].apply(_normalize_str)
+    return dict(zip(raw, df['clean']))
 
 
 # --- Type grouping ---
@@ -32,6 +41,8 @@ TYPE_GROUPS = {
 def normalize_journal_titles(df):
     """Replaces known malformed journal titles with their correct versions."""
     aliases = load_journal_aliases()
+    # NFC Unicode + collapse internal whitespace (handles embedded newlines)
+    df['journal_title'] = df['journal_title'].apply(_normalize_str)
     df['journal_title'] = df['journal_title'].replace(aliases)
     return df
 
